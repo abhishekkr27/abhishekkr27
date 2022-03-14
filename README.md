@@ -1,4 +1,4 @@
-<img style="text-align: center;" alt="Banner-Image" width="1000" height="400" src="https://www.softprodigy.com/wp-content/uploads/2021/06/JS-Development-Gif.gif">
+<img style="text-align: center;" alt="Banner-Image" width="1000" height="400" src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif">
 
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
