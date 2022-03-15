@@ -1,7 +1,7 @@
 <img align="center" alt="Banner-Image" width="1000" height="400" src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif">
 
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<h3 align="center">A Passionate Full Stack Web Developer from India</h3>
 <img align="right" alt="Coding" width="480" height="300" src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkr27&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkr27" /> </p>
