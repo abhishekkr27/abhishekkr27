@@ -1,18 +1,52 @@
 <img align="center" alt="Banner-Image" width="1000" height="400" src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif">
 
-<h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">A Passionate Full Stack Web Developer from India</h3>
-<img align="right" alt="Coding" width="480" height="300" src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif">
+<p align="center"><samp><b> Hey there! <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px"> </b></samp></p>
+<p align="center"><h1 align="center"><samp> I'm Abhishek Kumar </samp></h1></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkr27&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkr27" /> </p>
 
-<p align="left"> <a href="https://twitter.com/027abhishek" target="blank"><img src="https://img.shields.io/twitter/follow/027abhishek?logo=twitter&style=for-the-badge" alt="027abhishek" /></a> </p>
 
-- 🔭 I’m currently working on **Track Back**
+<h3 align="center">An Aspiring Full Stack Web Developer, An Open Source Contributor, UI/UX designer ☁</h3>
+
+<br>
+
+
+<a href="https://twitter.com/027abhishek" target="blank">
+  <img width="220px" align="left" src="https://img.shields.io/twitter/follow/027abhishek?logo=twitter&style=for-the-badge" alt="027abhishek" />
+</a>
+
+<a href="https://github.com/abhishekkr27">
+  <img align="left" alt="abhishek's Github" width="95px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/abhishek-kumar-072a23203/">
+  <img align="left" alt="abhishek's Linkdein" align= width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/_abhishek_kumar27/">
+  <img align="left" alt="abhishek's Instagram" width="122px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+
+<br>
+<br>
+
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
+
+<br>
+<div>
+<img align="right" alt="Coding" width="40%" height="250" src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif">
+
+- 👷 Currently pursuing B.Tech from ITM University Gwalior
+
+- 🤔 Exploring new technologies and developing web application. 
+
+- 🌱 Open to all Open Source Projects😋  
+
+- 💼 I’m looking for **Internship/Full-Time(PPO)** Opportunities/roles.
 
 - 🌱 I’m currently learning **Full Stack Web Developer**
 
-- 👨‍💻 All of my projects are available at [https://abhishekportfoliosite.000webhostapp.com/](https://abhishekportfoliosite.000webhostapp.com/)
+- 👨‍💻 All of my projects are available at [https://abhishekportfoliosite.netlify.app/](https://abhishekportfoliosite.netlify.app/)
 
 - 💬 Ask me about **Frontend Web Developer**
 
@@ -20,18 +54,118 @@
 
 - ⚡ Fun fact **There are around 700 separate programming languages.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+-  ♟ I play a lot of chess and cricket.
+</div>
+
+
+
+
+<hr>
+<h3><b><samp>Skills and Languages</samp></b></h3>
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![React](https://img.shields.io/badge/React-013243?style=flat-square&logo=React&logoColor=white)<br>
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)]()
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
+[![vsCode](https://img.shields.io/badge/vsCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
+<br><br>
+
+<span>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/c.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/python-5.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/mysql-6.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/html.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/css.svg" alt="drawing" width="50"/>
+
+<img align="left" alt="Sass" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /><br>
+  </span>
+<hr>
+<h3><b><samp>Tools and Platform</samp></b></h3>
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=DD1100)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white)
+![BootStrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+
+
+<span>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bootstrap-5-1.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/firebase-1.svg" alt="drawing" width="30"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/git-icon.svg" alt="drawing" width="40"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/visual-studio-code.svg" alt="drawing" width="40"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/heroku-4.svg" alt="drawing" width="40"/>
+</span><br>
+<hr> 
+
+
+<br>
+
+<hr>
+<br>
+ 📈 GitHub Activity:
+  <br>
+   <br>
+    <p align="center">
+   <img width="98%" height="130%" src="https://activity-graph.herokuapp.com/graph?username=abhishekkr27&theme=react-dark"/></p>
+   
+  <p align="center"> <img height="180px"  src="https://github-readme-stats.vercel.app/api?username=abhishekkr27&show_icons=true&locale=en&theme=react" alt="abhishekkr27">
+  
+  <p align="center">
+    
+  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkr27&theme=react" alt="abhishekkr27" />
+    
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekkr27&show_icons=true&locale=en&layout=compact&theme=react" alt="abhishekkr27" />
+  </p>
+  
+  
+  </p><hr>
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    155 commits    ██████████░░░░░░░░░░░░░░░   40.58% 
+🌆 Daytime    144 commits    █████████░░░░░░░░░░░░░░░░   37.7% 
+🌃 Evening    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52% 
+🌙 Night      81 commits     █████░░░░░░░░░░░░░░░░░░░░   21.2%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: India Standard Time ⌚︎
+
+💬 Programming Languages: 
+JavaScript               4 hrs 13 mins       ███████████████████████░░   96.94% 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.77% 
+ReactJs, PHP and MYSQL       5 hrs 30 mins       ████████████████████████░ 0.98%
+
+🔥 Editors: 
+VS Code                  4 hrs 16 mins       █████████████████████████   100.0%
+
+```
+
+<!--END_SECTION:waka-->
+<br>  
+  
+  ### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
 <a href="https://twitter.com/027abhishek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="027abhishek" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abhishek-kumar-072a23203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-kumar-072a23203/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_abhishek_kumar27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_abhishek_kumar27/" height="30" width="40" /></a>
 </p>
+  
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekkr27&show_icons=true&locale=en&layout=compact" alt="abhishekkr27" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekkr27&show_icons=true&locale=en" alt="abhishekkr27" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkr27&" alt="abhishekkr27" /></p>
