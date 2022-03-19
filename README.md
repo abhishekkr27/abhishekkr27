@@ -5,7 +5,7 @@
 
 
 
-<h3 align="center">An Aspiring Full Stack Web Developer, An Open Source Contributor, UI/UX designer ☁</h3>
+<h3 align="center">An Aspiring Full Stack Web Developer, An Open Source Contributor, UI/UX Designer ☁</h3>
 
 <br>
 
