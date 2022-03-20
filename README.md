@@ -34,7 +34,7 @@
 
 <br>
 <div>
-<img align="right" alt="Coding" width="40%" height="250" src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif">
+<img align="right" alt="Coding" width="50%" height="300" src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif">
 
 - 👷 Currently pursuing B.Tech from ITM University Gwalior
 
