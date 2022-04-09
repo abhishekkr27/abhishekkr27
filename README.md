@@ -140,5 +140,5 @@ VS Code                  4 hrs 16 mins       ███████████�
 <a href="https://www.instagram.com/_abhishek_kumar27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_abhishek_kumar27/" height="30" width="40" /></a>
 </p>
   
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
+![](https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/8fa19d52cf7daf03456f325a698317938da51c5c/imgs/bottom_header.svg)
 
