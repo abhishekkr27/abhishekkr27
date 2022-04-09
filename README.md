@@ -30,7 +30,7 @@
 <br>
 <br>
 
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
+![](https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/header_.png)
 
 <br>
 <div>
