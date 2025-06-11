@@ -36,7 +36,7 @@
 <div>
 <img align="right" alt="Coding" width="50%" height="300" src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif">
 
-- 👷 Currently pursuing B.Tech from ITM University Gwalior
+- 👨‍💻 Frontend Web Developer | React.js | JavaScript | HTML | CSS | PHP | MySQL Passionate about building responsive and user-friendly web apps.
 
 - 🤔 Exploring new technologies and developing web application. 
 
