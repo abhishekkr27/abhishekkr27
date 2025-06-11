@@ -42,7 +42,7 @@
 
 - 🌱 Open to all Open Source Projects😋  
 
-- 💼 I’m looking for **Internship/Full-Time(PPO)** Opportunities/roles.
+- 💼 I’m looking for **Full-Time** Opportunities/roles.
 
 - 🌱 I’m currently learning **Full Stack Web Developer**
 
